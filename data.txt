@@ -1,0 +1,22 @@
+
+head 头
+
+eyes 眼睛
+
+nose 鼻子
+
+hand 手
+
+ears 耳朵
+
+arms 胳膊
+
+legs 腿
+
+foot 脚
+
+
+
+
+
+
